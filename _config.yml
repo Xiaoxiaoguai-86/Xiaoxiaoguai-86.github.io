@@ -1,5 +1,5 @@
 # Site settings
-title: Weixian Shi
+title: Yan Zhang
 description: >
   A master student doing research at Bonn University, Germany
 
@@ -7,7 +7,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://weixians.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Weixian Shi
+  fullname: Yan Zhang
   github: weixians
   linkedin: weixianshi-ab17b5148
   email: weixian_shi@outlook.com
